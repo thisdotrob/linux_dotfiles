@@ -7,3 +7,5 @@ files to link:
 /home/rs/.i3/config
 /home/rs/.Xresources
 /home/rs/.profile
+/home/rs/.zshrc
+/home/rs/.gitconfig
