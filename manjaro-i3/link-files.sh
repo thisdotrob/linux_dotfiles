@@ -9,3 +9,4 @@ files to link:
 /home/rs/.profile
 /home/rs/.zshrc
 /home/rs/.gitconfig
+/etc/bluetooth/main.conf
