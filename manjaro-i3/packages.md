@@ -14,3 +14,4 @@ pulseaudio-zeroconf
 pavucontrol
 pa-applet
 docker
+docker-compose

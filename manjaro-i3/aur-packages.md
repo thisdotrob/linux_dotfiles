@@ -1,5 +1,3 @@
-docker-compose
-google-chrome
-chromium-vaapi
+spotify
 intel-media-driver
 chromium-vaapi-bin
