@@ -1,0 +1,3 @@
+[submodule "/home/rs/dotfiles/manjaro-i3/home/rs/.vim/pack/rs/start/ctrlp"]
+	path = /home/rs/dotfiles/manjaro-i3/home/rs/.vim/pack/rs/start/ctrlp
+	url = https://github.com/ctrlpvim/ctrlp.vim
