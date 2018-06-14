@@ -31,3 +31,5 @@ autoload -Uz promptinit
 promptinit
 
 prompt adam2
+
+alias spotify=/usr/bin/spotify --force-device-scale-factor=2
